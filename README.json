@@ -1,0 +1,682 @@
+{
+  "items": [
+    {
+      "description": "Please take a quick gander at the contribution guidelines first. Thanks to all contributors; you rock!\nJoin us on Discord to chat with other awesome-phalcon maintainers!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "Various application skeletons.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MVC",
+          "description": "Examples of Phalcon MVC file structures",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-14T17:12:30Z",
+            "owner": "phalcon",
+            "repo": "mvc",
+            "stars": 819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vökuró",
+          "description": "Sample application for Phalcon Framework (Acl, Auth, Security)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-08T01:47:03Z",
+            "owner": "phalcon",
+            "repo": "vokuro",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "INVO Application",
+          "description": "Sample application for the Phalcon Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T21:38:41Z",
+            "owner": "phalcon",
+            "repo": "invo",
+            "stars": 346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webird",
+          "description": "Webird was created to merge the latest PHP and Node.js innovations into a single application stack",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2020-07-16T04:34:44Z",
+            "owner": "perchlabs",
+            "repo": "webird",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Album O'Rama",
+          "description": "Sample modular application for the Phalcon Framework",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2019-05-04T14:23:34Z",
+            "owner": "phalcon",
+            "repo": "album-o-rama",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Base App",
+          "description": "The base application in Phalcon Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-04-26T09:14:37Z",
+            "owner": "mruz",
+            "repo": "base-app",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phalcon Composer",
+          "description": "Phalcon with Composer support MySql MongoDb Redis, clean + beauty",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-31T07:43:28Z",
+            "owner": "xxtime",
+            "repo": "phalcon",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhalconTool",
+          "description": "Alternative to Phalcon devtools with complete frontend stack without any framework but helpers system allowing to automaticaly bind HTML events using Phalcon 5, PHP 8, Apache, MYSQL, SASS, ES6 and jQuery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-06T17:32:53Z",
+            "owner": "corentin-begne",
+            "repo": "phalconTool",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NovaMOOC",
+          "description": "Sample application with API/BackEnd and FrontEnd + Authentication with JWT + Cypress tests with GitHub Actions + Docker compose.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T21:18:36Z",
+            "owner": "les-enovateurs",
+            "repo": "phalcon-nova-mooc",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Application Skeleton"
+    },
+    {
+      "description": "Libraries for implementing authentications schemes.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "phalcon-authmiddleware",
+          "description": "Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-08-11T22:13:56Z",
+            "owner": "SidRoberts",
+            "repo": "phalcon-authmiddleware",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Padlock",
+          "description": "A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-06-21T17:45:25Z",
+            "owner": "tegaphilip",
+            "repo": "padlock",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phalcon Auth",
+          "description": "Out-of-the-box authentication component based on guards and providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-26T09:23:06Z",
+            "owner": "sinbadxiii",
+            "repo": "phalcon-auth",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Authentication & OAuth"
+    },
+    {
+      "description": "Content management systems & blogs.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Yona CMS",
+          "description": "CMS based on Phalcon Framework with modular structure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-08-31T13:18:44Z",
+            "owner": "alexander-torosh",
+            "repo": "yona-cms",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhalconCMS",
+          "description": "A blog built on Phalcon Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-06-19T06:27:48Z",
+            "owner": "aihunter666",
+            "repo": "PhalconCMS",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KikCMS",
+          "description": "CMS built on Phalcon Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-30T11:01:23Z",
+            "owner": "krazzer",
+            "repo": "kikcms",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "giada-www",
+          "description": "Official website of Giada Loop Machine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pug",
+            "last_commit": "2026-06-18T17:50:52Z",
+            "owner": "monocasual",
+            "repo": "giada-www",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hummingbird CMS",
+          "description": "A CMS based on Phalcon 4 with many powerful features",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-17T07:09:20Z",
+            "owner": "mvanvu",
+            "repo": "hummingbird-cms",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skopy Blog Engine",
+          "description": "A simple blog engine for those who want to start learning Phalcon",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2018-11-05T18:52:53Z",
+            "owner": "yuriygr",
+            "repo": "skopy",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Element CMF",
+          "description": "Admin panel for everything Demo (admin | adminpass)",
+          "children": []
+        }
+      ],
+      "title": "CMS & Blogs"
+    },
+    {
+      "description": "Command line applications & tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "phalcon-cron",
+          "description": "Cron component for Phalcon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-08-12T23:15:40Z",
+            "owner": "SidRoberts",
+            "repo": "phalcon-cron",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phalcon-console",
+          "description": "Sample bootstraping application for command line applications using the outstanding Phalcon Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-07-30T20:10:02Z",
+            "owner": "viebig",
+            "repo": "phalcon-console",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Command Line"
+    },
+    {
+      "description": "Debug & profiling tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prophiler",
+          "description": "PHP Profiler & Developer Toolbar (built for Phalcon)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-09-03T07:17:57Z",
+            "owner": "fabfuel",
+            "repo": "prophiler",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phalcon Debugbar",
+          "description": "Integrates PHP Debug Bar with Phalcon Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-04-08T10:16:47Z",
+            "owner": "snowair",
+            "repo": "phalcon-debugbar",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dd",
+          "description": "This package will add the and helpers to your Phalcon application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-10-07T14:04:55Z",
+            "owner": "phalcon",
+            "repo": "dd",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phalcon BB Debugger",
+          "description": "Phalcon BB Debugger Strong and easy install.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-03-28T17:43:01Z",
+            "owner": "ismail0234",
+            "repo": "phalcon-bb-debugger",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Debug"
+    },
+    {
+      "description": "These libraries were placed here because none of the other categories seemed to fit",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Incubator",
+          "description": "Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-07-05T11:44:58Z",
+            "owner": "phalcon",
+            "repo": "incubator",
+            "stars": 720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Breadcrumbs",
+          "description": "Powerful and flexible component for building site breadcrumbs in Phalcon 2+.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-07-16T15:04:19Z",
+            "owner": "sergeyklay",
+            "repo": "breadcrumbs",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yarak",
+          "description": "Laravel inspired Phalcon devtools",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2018-09-22T03:12:34Z",
+            "owner": "zachleigh",
+            "repo": "yarak",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Upgrade Adviser",
+          "description": "Command line tool to help upgrading Phalcon Applications from 3.4.x to 4.1.3, 3.4.x to 5.1.3, 4.1.3 to 5.1.3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-28T11:27:05Z",
+            "owner": "diplopito",
+            "repo": "Phalcon-Upgrade-Adviser",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phalcon-data-table",
+          "description": "Allows you to simplify the interaction with the bootstrap-table in the Phalcon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-05-05T11:07:14Z",
+            "owner": "maslo2017",
+            "repo": "phalcon-data-table",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "Libraries that implement Object-Relational Mapping or datamapping techniques.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "phalcon-repositories",
+          "description": "Easy Repository pattern for Phalcon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-07-04T07:42:41Z",
+            "owner": "micheleangioni",
+            "repo": "phalcon-repositories",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phalcon-redis-model",
+          "description": "redis based ORM and Easy Criteria (The correspondence of MySQL sharding.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-04-08T21:37:30Z",
+            "owner": "ienaga",
+            "repo": "RedisPlugin",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phalcon-seeder",
+          "description": "Database seeder component for Phalcon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-08T10:19:12Z",
+            "owner": "SidRoberts",
+            "repo": "phalcon-seeder",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phalcon-boundmodels",
+          "description": "Automatically get models based on dispatcher parameters within the Phalcon framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-08-11T21:51:05Z",
+            "owner": "SidRoberts",
+            "repo": "phalcon-boundmodels",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "ORM"
+    },
+    {
+      "description": "Tools for provisioning a system for a Phalcon application.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "setupify",
+          "description": "A collection of bash scripts for provisioning a Zephir and Phalcon based system for deployement or development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-04-17T20:33:48Z",
+            "owner": "perchlabs",
+            "repo": "setupify",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ansible-phalcon",
+          "description": "Ansible Role to install Phalcon Framework in Debian (provides PHP 5.6 and PHP 7.0 packages)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-08-07T15:54:37Z",
+            "owner": "HanXHX",
+            "repo": "ansible-phalcon",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Provisioning"
+    },
+    {
+      "description": "Representational state transfer.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "REST API",
+          "description": "Implementation of an API application using the Phalcon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T19:32:29Z",
+            "owner": "phalcon",
+            "repo": "rest-api",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phalcon-json-api-package",
+          "description": "A composer package designed to help you create a JSON:API in Phalcon",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2019-05-30T11:37:07Z",
+            "owner": "gte451f",
+            "repo": "phalcon-json-api-package",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhREST API",
+          "description": "Phalcon Framework REST API Package",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-03-17T13:44:07Z",
+            "owner": "phrest",
+            "repo": "api",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "RESTful"
+    },
+    {
+      "description": "Various routing libraries & extensions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Phalcon-autorouter",
+          "description": "Simple way to auto load modules without complicate definition of routes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-03-13T10:40:16Z",
+            "owner": "kahur",
+            "repo": "Phalcon-autorouter",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phalcon Routing for Yaml",
+          "description": "Routing can be easily configured with yaml",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-04-08T21:41:49Z",
+            "owner": "ienaga",
+            "repo": "PhalconRouter",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Routing"
+    },
+    {
+      "description": "Conferences, Chats, Forums, etc..",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Phosphorum",
+          "description": "The source for official Phalcon Forum",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-01-25T15:18:31Z",
+            "owner": "phalcon",
+            "repo": "forum",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phanbook",
+          "description": "The source for code phanbook.com website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-08T07:25:20Z",
+            "owner": "phanbook",
+            "repo": "phanbook",
+            "stars": 298
+          }
+        }
+      ],
+      "title": "Talks"
+    },
+    {
+      "description": "Conferences, IRC, Forums, etc..",
+      "items": [],
+      "title": "Conferences"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:03:06.552Z",
+    "original_repository": "phalcon/awesome-phalcon",
+    "original_repository_sha": "6a0fbbd2fa66c2aba79770a2b6671cb4d0ed1c5f",
+    "enhanced_repository": "enhansome/enhansome-phalcon",
+    "enhanced_repository_description": null,
+    "title": "Awesome Phalcon with stars"
+  }
+}
