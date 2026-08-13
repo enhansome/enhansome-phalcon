@@ -19,7 +19,7 @@
             "last_commit": "2026-07-14T17:12:30Z",
             "owner": "phalcon",
             "repo": "mvc",
-            "stars": 819
+            "stars": 818
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-08T01:47:03Z",
             "owner": "phalcon",
             "repo": "vokuro",
-            "stars": 367
+            "stars": 366
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-12T21:38:41Z",
             "owner": "phalcon",
             "repo": "invo",
-            "stars": 346
+            "stars": 345
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2019-05-04T14:23:34Z",
             "owner": "phalcon",
             "repo": "album-o-rama",
-            "stars": 85
+            "stars": 84
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2021-08-31T13:18:44Z",
             "owner": "alexander-torosh",
             "repo": "yona-cms",
-            "stars": 364
+            "stars": 363
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2021-01-25T15:18:31Z",
             "owner": "phalcon",
             "repo": "forum",
-            "stars": 364
+            "stars": 363
           }
         },
         {
@@ -672,7 +672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:03:06.552Z",
+    "last_updated": "2026-08-13T20:42:54.331Z",
     "original_repository": "phalcon/awesome-phalcon",
     "original_repository_sha": "6a0fbbd2fa66c2aba79770a2b6671cb4d0ed1c5f",
     "enhanced_repository": "enhansome/enhansome-phalcon",
