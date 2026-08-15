@@ -1,9 +1,9 @@
 # Awesome Phalcon with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,748 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,097 | 🐛 100 | 📅 2026-06-30
 [![Actions Status](https://github.com/phalcon/awesome-phalcon/workflows/CI/badge.svg)](https://github.com/phalcon/awesome-phalcon/actions) ⭐ 612 | 🐛 0 | 🌐 Ruby | 📅 2024-02-16
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,072 | 🐛 209 | 🌐 Go | 📅 2026-08-13.
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,133 | 🐛 208 | 🌐 Go | 📅 2026-08-15.
 
 ### Contributing
 
@@ -265,4 +265,4 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
