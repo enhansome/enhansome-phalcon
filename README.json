@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-08T01:47:03Z",
+            "last_commit": "2026-08-16T09:42:42Z",
             "owner": "phalcon",
             "repo": "vokuro",
             "stars": 366
@@ -672,7 +672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:22:29.497Z",
+    "last_updated": "2026-08-16T20:22:31.791Z",
     "original_repository": "phalcon/awesome-phalcon",
     "original_repository_sha": "6a0fbbd2fa66c2aba79770a2b6671cb4d0ed1c5f",
     "enhanced_repository": "enhansome/enhansome-phalcon",
