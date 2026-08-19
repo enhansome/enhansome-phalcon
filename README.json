@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "Please take a quick gander at the contribution guidelines first. Thanks to all contributors; you rock!\nJoin us on Discord to chat with other awesome-phalcon maintainers!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
       "description": "Various application skeletons.",
       "items": [
         {
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5383579,
             "language": "PHP",
             "last_commit": "2026-07-14T17:12:30Z",
             "owner": "phalcon",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9816679,
             "language": "PHP",
             "last_commit": "2026-08-17T21:30:26Z",
             "owner": "phalcon",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3989277,
             "language": "PHP",
             "last_commit": "2026-08-12T21:38:41Z",
             "owner": "phalcon",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 24458912,
             "language": "PHP",
             "last_commit": "2020-07-16T04:34:44Z",
             "owner": "perchlabs",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 7073809,
             "language": "CSS",
             "last_commit": "2019-05-04T14:23:34Z",
             "owner": "phalcon",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10026824,
             "language": "PHP",
             "last_commit": "2016-04-26T09:14:37Z",
             "owner": "mruz",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104291334,
             "language": "PHP",
             "last_commit": "2024-05-31T07:43:28Z",
             "owner": "xxtime",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39471911,
             "language": "JavaScript",
             "last_commit": "2026-01-06T17:32:53Z",
             "owner": "corentin-begne",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 239363932,
             "language": "JavaScript",
             "last_commit": "2022-12-10T21:18:36Z",
             "owner": "les-enovateurs",
@@ -147,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50796349,
             "language": "PHP",
             "last_commit": "2025-08-11T22:13:56Z",
             "owner": "SidRoberts",
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143159331,
             "language": "PHP",
             "last_commit": "2022-06-21T17:45:25Z",
             "owner": "tegaphilip",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 346650556,
             "language": "PHP",
             "last_commit": "2026-02-26T09:23:06Z",
             "owner": "sinbadxiii",
@@ -195,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22930169,
             "language": "PHP",
             "last_commit": "2021-08-31T13:18:44Z",
             "owner": "alexander-torosh",
@@ -209,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56491300,
             "language": "PHP",
             "last_commit": "2023-06-19T06:27:48Z",
             "owner": "aihunter666",
@@ -223,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189234245,
             "language": "PHP",
             "last_commit": "2026-07-30T11:01:23Z",
             "owner": "krazzer",
@@ -237,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23807780,
             "language": "Pug",
             "last_commit": "2026-06-18T17:50:52Z",
             "owner": "monocasual",
@@ -251,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187195510,
             "language": "JavaScript",
             "last_commit": "2022-10-17T07:09:20Z",
             "owner": "mvanvu",
@@ -265,18 +277,13 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 21529162,
             "language": "PHP",
             "last_commit": "2018-11-05T18:52:53Z",
             "owner": "yuriygr",
             "repo": "skopy",
             "stars": 7
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Element CMF",
-          "description": "Admin panel for everything Demo (admin | adminpass)",
-          "children": []
         }
       ],
       "title": "CMS & Blogs"
@@ -291,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31265076,
             "language": "PHP",
             "last_commit": "2025-08-12T23:15:40Z",
             "owner": "SidRoberts",
@@ -305,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33333404,
             "language": "PHP",
             "last_commit": "2015-07-30T20:10:02Z",
             "owner": "viebig",
@@ -325,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27079491,
             "language": "PHP",
             "last_commit": "2020-09-03T07:17:57Z",
             "owner": "fabfuel",
@@ -339,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31999809,
             "language": "PHP",
             "last_commit": "2022-04-08T10:16:47Z",
             "owner": "snowair",
@@ -353,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73018101,
             "language": "PHP",
             "last_commit": "2022-10-07T14:04:55Z",
             "owner": "phalcon",
@@ -367,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177453610,
             "language": "HTML",
             "last_commit": "2019-03-28T17:43:01Z",
             "owner": "ismail0234",
@@ -387,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6857360,
             "language": "PHP",
             "last_commit": "2023-07-05T11:44:58Z",
             "owner": "phalcon",
@@ -401,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52214289,
             "language": "PHP",
             "last_commit": "2021-07-16T15:04:19Z",
             "owner": "sergeyklay",
@@ -415,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 83725289,
             "language": "PHP",
             "last_commit": "2018-09-22T03:12:34Z",
             "owner": "zachleigh",
@@ -429,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206015697,
             "language": "PHP",
             "last_commit": "2025-02-28T11:27:05Z",
             "owner": "diplopito",
@@ -443,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185019109,
             "language": "PHP",
             "last_commit": "2019-05-05T11:07:14Z",
             "owner": "maslo2017",
@@ -463,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57220052,
             "language": "PHP",
             "last_commit": "2018-07-04T07:42:41Z",
             "owner": "micheleangioni",
@@ -477,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35199287,
             "language": "PHP",
             "last_commit": "2019-04-08T21:37:30Z",
             "owner": "ienaga",
@@ -491,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40818363,
             "language": "PHP",
             "last_commit": "2026-08-08T10:19:12Z",
             "owner": "SidRoberts",
@@ -505,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49986132,
             "language": "PHP",
             "last_commit": "2025-08-11T21:51:05Z",
             "owner": "SidRoberts",
@@ -525,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168823720,
             "language": "Shell",
             "last_commit": "2022-04-17T20:33:48Z",
             "owner": "perchlabs",
@@ -539,6 +562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42922022,
             "language": null,
             "last_commit": "2019-08-07T15:54:37Z",
             "owner": "HanXHX",
@@ -559,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127645341,
             "language": "PHP",
             "last_commit": "2026-08-11T19:32:29Z",
             "owner": "phalcon",
@@ -573,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32551496,
             "language": "PHP",
             "last_commit": "2019-05-30T11:37:07Z",
             "owner": "gte451f",
@@ -587,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19668956,
             "language": "PHP",
             "last_commit": "2021-03-17T13:44:07Z",
             "owner": "phrest",
@@ -607,6 +634,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21146731,
             "language": "PHP",
             "last_commit": "2019-03-13T10:40:16Z",
             "owner": "kahur",
@@ -621,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70675901,
             "language": "PHP",
             "last_commit": "2019-04-08T21:41:49Z",
             "owner": "ienaga",
@@ -641,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 7767182,
             "language": "PHP",
             "last_commit": "2021-01-25T15:18:31Z",
             "owner": "phalcon",
@@ -655,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36341941,
             "language": "PHP",
             "last_commit": "2026-08-08T07:25:20Z",
             "owner": "phanbook",
@@ -666,14 +697,61 @@
       "title": "Talks"
     },
     {
-      "description": "Conferences, IRC, Forums, etc..",
-      "items": [],
-      "title": "Conferences"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "phalcon-vm",
+          "description": "Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 58855839,
+            "language": "JavaScript",
+            "last_commit": "2019-02-08T10:22:55Z",
+            "owner": "eugene-manuilov",
+            "repo": "phalcon-vm",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phalcon-docker-nginx",
+          "description": "Phalcon 3, PHP7, Docker sample starter application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73101203,
+            "language": "Shell",
+            "last_commit": "2017-01-26T08:29:41Z",
+            "owner": "viebig",
+            "repo": "phalcon-docker-nginx",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phalcon3-compose",
+          "description": "Docker Phalcon 3 development environment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91108078,
+            "language": null,
+            "last_commit": "2017-05-31T14:40:41Z",
+            "owner": "linxlad",
+            "repo": "phalcon3-compose",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Server Applications"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:24:32.803Z",
+    "last_updated": "2026-08-19T12:45:40.096Z",
     "original_repository": "phalcon/awesome-phalcon",
+    "original_repository_id": 36503415,
     "original_repository_sha": "6a0fbbd2fa66c2aba79770a2b6671cb4d0ed1c5f",
     "enhanced_repository": "enhansome/enhansome-phalcon",
     "enhanced_repository_description": null,
