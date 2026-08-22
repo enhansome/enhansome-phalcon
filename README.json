@@ -15,7 +15,7 @@
             "last_commit": "2026-07-14T17:12:30Z",
             "owner": "phalcon",
             "repo": "mvc",
-            "stars": 818
+            "stars": 817
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T21:30:26Z",
             "owner": "phalcon",
             "repo": "vokuro",
-            "stars": 366
+            "stars": 365
           }
         },
         {
@@ -749,7 +749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T20:26:29.974Z",
+    "last_updated": "2026-08-22T20:22:44.093Z",
     "original_repository": "phalcon/awesome-phalcon",
     "original_repository_id": 36503415,
     "original_repository_sha": "6a0fbbd2fa66c2aba79770a2b6671cb4d0ed1c5f",
