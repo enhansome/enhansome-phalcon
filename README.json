@@ -325,6 +325,48 @@
       "title": "Command Line"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Phalcon Config Loader for Yaml",
+          "description": "Loads all the yml in the directory of the app/config.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70882804,
+            "language": "PHP",
+            "last_commit": "2019-04-08T21:41:03Z",
+            "owner": "ienaga",
+            "repo": "PhalconConfig",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Config"
+    },
+    {
+      "description": "Admin Panels & Dashboards.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PhalconTime",
+          "description": "TimeKeeping tool / Dashboard skeleton",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 102359332,
+            "language": "PHP",
+            "last_commit": "2018-03-07T14:05:09Z",
+            "owner": "Videles",
+            "repo": "PhalconTime",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Dashboard"
+    },
+    {
       "description": "Debug & profiling tools.",
       "items": [
         {
@@ -389,6 +431,48 @@
         }
       ],
       "title": "Debug"
+    },
+    {
+      "description": "List of i18n and l10n libraries and services.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xgettext-template",
+          "description": "Extract gettext messages from Volt templates using a command line program that is identical to the xgettext invocation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4493033,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T03:59:16Z",
+            "owner": "gmarty",
+            "repo": "xgettext",
+            "stars": 78
+          }
+        }
+      ],
+      "title": "i18n"
+    },
+    {
+      "description": "Integration with third party services",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "phalcon-logentries",
+          "description": "Sends log messages to the Logentries log management service",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41022770,
+            "language": "PHP",
+            "last_commit": "2017-04-11T05:57:11Z",
+            "owner": "phalcon-orphanage",
+            "repo": "phalcon-logentries",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Integration"
     },
     {
       "description": "These libraries were placed here because none of the other categories seemed to fit",
@@ -661,6 +745,69 @@
       "title": "Routing"
     },
     {
+      "description": "Searching tools & libraries.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ElasticsearchIndexer",
+          "description": "Elasticsearch indexer component for Phalcon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43640705,
+            "language": "PHP",
+            "last_commit": "2025-08-12T03:54:25Z",
+            "owner": "SidRoberts",
+            "repo": "phalcon-elasticsearchindexer",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Searching"
+    },
+    {
+      "description": "Seo tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Phalcon meta tags",
+          "description": "Tools for work with meta tags.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78631299,
+            "language": "PHP",
+            "last_commit": "2023-04-09T00:59:40Z",
+            "owner": "izica",
+            "repo": "phalcon-meta-tags",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "SEO"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shopping Cart",
+          "description": "Simple cart for online store",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219980359,
+            "language": "PHP",
+            "last_commit": "2021-07-21T05:57:25Z",
+            "owner": "sinbadxiii",
+            "repo": "phalcon-cart",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Shop & Ecommerce"
+    },
+    {
       "description": "Conferences, Chats, Forums, etc..",
       "items": [
         {
@@ -695,6 +842,48 @@
         }
       ],
       "title": "Talks"
+    },
+    {
+      "description": "Libraries and tools for templating.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "twig-phalcon",
+          "description": "Twig Template Engine for Phalcon Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75418346,
+            "language": "PHP",
+            "last_commit": "2023-08-23T18:00:28Z",
+            "owner": "vinyvicente",
+            "repo": "phalcon-twig",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Templating"
+    },
+    {
+      "description": "Testing tools and solutions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "phalcon-demo",
+          "description": "A modified Phalcon INVO Application to demonstrate basics of Codeception testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44760239,
+            "language": "PHP",
+            "last_commit": "2022-03-11T23:22:56Z",
+            "owner": "Codeception",
+            "repo": "phalcon-demo",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Testing"
     },
     {
       "description": null,
@@ -749,7 +938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:23:22.564Z",
+    "last_updated": "2026-08-24T14:20:38.187Z",
     "original_repository": "phalcon/awesome-phalcon",
     "original_repository_id": 36503415,
     "original_repository_sha": "6a0fbbd2fa66c2aba79770a2b6671cb4d0ed1c5f",
