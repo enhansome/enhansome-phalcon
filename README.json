@@ -15,7 +15,7 @@
             "last_commit": "2026-07-14T17:12:30Z",
             "owner": "phalcon",
             "repo": "mvc",
-            "stars": 817
+            "stars": 816
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 3989277,
             "language": "PHP",
-            "last_commit": "2026-08-12T21:38:41Z",
+            "last_commit": "2026-08-25T18:44:00Z",
             "owner": "phalcon",
             "repo": "invo",
             "stars": 345
@@ -234,7 +234,7 @@
             "archived": false,
             "id": 189234245,
             "language": "PHP",
-            "last_commit": "2026-08-21T12:24:49Z",
+            "last_commit": "2026-08-25T12:12:18Z",
             "owner": "krazzer",
             "repo": "kikcms",
             "stars": 59
@@ -669,7 +669,7 @@
             "archived": false,
             "id": 127645341,
             "language": "PHP",
-            "last_commit": "2026-08-11T19:32:29Z",
+            "last_commit": "2026-08-25T18:49:27Z",
             "owner": "phalcon",
             "repo": "rest-api",
             "stars": 93
@@ -938,7 +938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:12:29.262Z",
+    "last_updated": "2026-08-25T20:29:33.643Z",
     "original_repository": "phalcon/awesome-phalcon",
     "original_repository_id": 36503415,
     "original_repository_sha": "6a0fbbd2fa66c2aba79770a2b6671cb4d0ed1c5f",
