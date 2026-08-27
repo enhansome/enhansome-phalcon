@@ -938,9 +938,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:48:10.463Z",
-    "original_repository": "phalcon/awesome-phalcon",
-    "original_repository_id": 36503415,
+    "last_updated": "2026-08-27T11:56:28.311Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 36503415,
+      "language": "Ruby",
+      "last_commit": "2024-02-16T13:41:59Z",
+      "owner": "phalcon",
+      "repo": "awesome-phalcon",
+      "stars": 612
+    },
     "original_repository_sha": "6a0fbbd2fa66c2aba79770a2b6671cb4d0ed1c5f",
     "enhanced_repository": "enhansome/enhansome-phalcon",
     "enhanced_repository_description": null,
