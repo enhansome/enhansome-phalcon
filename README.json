@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phalcon MVC Examples",
+            "homepage": null,
             "id": 5383579,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-14T17:12:30Z",
+            "open_issues": 2,
             "owner": "phalcon",
             "repo": "mvc",
-            "stars": 816
+            "stars": 816,
+            "topics": [
+              "mvc-pattern",
+              "phalcon-mvc",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -26,12 +35,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample application for Phalcon Framework (Acl, Auth, Security)",
+            "homepage": "https://docs.phalcon.io/latest/tutorial-vokuro/",
             "id": 9816679,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T17:57:51Z",
+            "open_issues": 0,
             "owner": "phalcon",
             "repo": "vokuro",
-            "stars": 365
+            "stars": 365,
+            "topics": [
+              "acl",
+              "demo",
+              "phalcon",
+              "phalcon-framework",
+              "php",
+              "sample",
+              "security",
+              "tutorial",
+              "vokuro"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -42,12 +66,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample application for the Phalcon PHP Framework",
+            "homepage": "https://docs.phalcon.io/latest/tutorial-invo",
             "id": 3989277,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-27T18:02:29Z",
+            "open_issues": 0,
             "owner": "phalcon",
             "repo": "invo",
-            "stars": 345
+            "stars": 345,
+            "topics": [
+              "demo",
+              "invo",
+              "phalcon",
+              "phalcon-framework",
+              "php",
+              "sample",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -58,12 +95,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Webird",
+            "homepage": null,
             "id": 24458912,
             "language": "PHP",
+            "license": null,
             "last_commit": "2020-07-16T04:34:44Z",
+            "open_issues": 12,
             "owner": "perchlabs",
             "repo": "webird",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -74,12 +116,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Sample application for the Phalcon PHP Framework.",
+            "homepage": "https://phalcon.io",
             "id": 7073809,
             "language": "CSS",
+            "license": null,
             "last_commit": "2019-05-04T14:23:34Z",
+            "open_issues": 0,
             "owner": "phalcon",
             "repo": "album-o-rama",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "phalcon",
+              "phalconphp",
+              "php",
+              "php7",
+              "sample-app"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -90,12 +143,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The base application in PhalconPHP",
+            "homepage": null,
             "id": 10026824,
             "language": "PHP",
+            "license": null,
             "last_commit": "2016-04-26T09:14:37Z",
+            "open_issues": 5,
             "owner": "mruz",
             "repo": "base-app",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -106,12 +164,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📕 基于Phalcon集成Composer，事件监听，中间件，MongoDB，Redis",
+            "homepage": null,
             "id": 104291334,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-05-31T07:43:28Z",
+            "open_issues": 0,
             "owner": "xxtime",
             "repo": "phalcon",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "composer",
+              "phalcon",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -122,12 +189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 39471911,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-01-06T17:32:53Z",
+            "open_issues": 1,
             "owner": "corentin-begne",
             "repo": "phalconTool",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -138,12 +210,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phalcon Mooc an example API + Front End with automated tests",
+            "homepage": null,
             "id": 239363932,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-10T21:18:36Z",
+            "open_issues": 3,
             "owner": "les-enovateurs",
             "repo": "phalcon-nova-mooc",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "framework",
+              "jwt",
+              "mooc",
+              "phalcon",
+              "phalcon-api",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -160,12 +244,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auth Middleware component for Phalcon.",
+            "homepage": null,
             "id": 50796349,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-08-11T22:13:56Z",
+            "open_issues": 2,
             "owner": "SidRoberts",
             "repo": "phalcon-authmiddleware",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "auth",
+              "middleware",
+              "phalcon"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -176,12 +269,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phalcon Authentication Server",
+            "homepage": null,
             "id": 143159331,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-06-21T17:45:25Z",
+            "open_issues": 5,
             "owner": "tegaphilip",
             "repo": "padlock",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "oauth2",
+              "phalcon",
+              "phalcon-php"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -192,12 +294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phalcon Auth - Authentication based guards and providers adapters",
+            "homepage": null,
             "id": 346650556,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-02-26T09:23:06Z",
+            "open_issues": 0,
             "owner": "sinbadxiii",
             "repo": "phalcon-auth",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -214,12 +321,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMS based on Phalcon PHP Framework with modular structure",
+            "homepage": "http://yonacms.com/",
             "id": 22930169,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-31T13:18:44Z",
+            "open_issues": 7,
             "owner": "alexander-torosh",
             "repo": "yona-cms",
-            "stars": 363
+            "stars": 363,
+            "topics": [
+              "phalcon",
+              "phalcon-php",
+              "phalcon-php-framework",
+              "php",
+              "yona-cms"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -230,12 +348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PhalconCMS博客系统",
+            "homepage": "http://www.marser.cn",
             "id": 56491300,
             "language": "PHP",
+            "license": null,
             "last_commit": "2023-06-19T06:27:48Z",
+            "open_issues": 0,
             "owner": "aihunter666",
             "repo": "PhalconCMS",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -246,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMS and high level framework created with Phalcon framework",
+            "homepage": "https://kikcmsdocs.kiksaus.nl",
             "id": 189234245,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-26T08:44:50Z",
+            "open_issues": 8,
             "owner": "krazzer",
             "repo": "kikcms",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -262,12 +390,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official website of Giada Loop Machine. Powered by NodeJS, SASS, Pug and other beautiful JavaScript machineries.",
+            "homepage": "https://www.giadamusic.com",
             "id": 23807780,
             "language": "Pug",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-18T17:50:52Z",
+            "open_issues": 10,
             "owner": "monocasual",
             "repo": "giada-www",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "css",
+              "css3",
+              "giada",
+              "giada-loop-machine",
+              "html",
+              "html5",
+              "javascript",
+              "nodejs",
+              "npm",
+              "pug",
+              "pug-template-engine",
+              "sass",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -278,12 +425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cms built with PHP Phalcon 4 and UIkit 3",
+            "homepage": null,
             "id": 187195510,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-10-17T07:09:20Z",
+            "open_issues": 0,
             "owner": "mvanvu",
             "repo": "hummingbird-cms",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -294,12 +446,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Движок блог-лайк на фрейморвке Phalcon PHP",
+            "homepage": "https://pastach.ru/",
             "id": 21529162,
             "language": "PHP",
+            "license": null,
             "last_commit": "2018-11-05T18:52:53Z",
+            "open_issues": 0,
             "owner": "yuriygr",
             "repo": "skopy",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "composer",
+              "phalcon",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -316,12 +477,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cron component for Phalcon.",
+            "homepage": null,
             "id": 31265076,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-08-12T23:15:40Z",
+            "open_issues": 2,
             "owner": "SidRoberts",
             "repo": "phalcon-cron",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "cron",
+              "phalcon"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -332,12 +501,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phalcon cli template",
+            "homepage": null,
             "id": 33333404,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2015-07-30T20:10:02Z",
+            "open_issues": 0,
             "owner": "viebig",
             "repo": "phalcon-console",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -354,12 +528,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "phalcon config loader for yaml",
+            "homepage": null,
             "id": 70882804,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2019-04-08T21:41:03Z",
+            "open_issues": 0,
             "owner": "ienaga",
             "repo": "PhalconConfig",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "phalcon",
+              "php",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -376,12 +559,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Time registration tool build with Phalcon",
+            "homepage": null,
             "id": 102359332,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2018-03-07T14:05:09Z",
+            "open_issues": 0,
             "owner": "Videles",
             "repo": "PhalconTime",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -398,12 +586,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP Profiler & Developer Toolbar (built for Phalcon)",
+            "homepage": "http://prophiler.fabfuel.de",
             "id": 27079491,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2020-09-03T07:17:57Z",
+            "open_issues": 19,
             "owner": "fabfuel",
             "repo": "prophiler",
-            "stars": 439
+            "stars": 439,
+            "topics": [
+              "benchmark",
+              "developer-toolbar",
+              "phalcon",
+              "php",
+              "php-profiler",
+              "profile",
+              "toolbar"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -414,12 +615,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful debug and profilers tool for the Phalcon Framework",
+            "homepage": null,
             "id": 31999809,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-04-08T10:16:47Z",
+            "open_issues": 12,
             "owner": "snowair",
             "repo": "phalcon-debugbar",
-            "stars": 159
+            "stars": 159,
+            "topics": [
+              "debugbar",
+              "phalcon",
+              "profiler"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -430,12 +640,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package will add the dd and dump helpers to your Phalcon application.",
+            "homepage": "https://phalcon.io",
             "id": 73018101,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-10-07T14:04:55Z",
+            "open_issues": 0,
             "owner": "phalcon",
             "repo": "dd",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "dd",
+              "debug",
+              "dump",
+              "phalcon",
+              "php",
+              "utils",
+              "vardumper"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -446,12 +669,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phalcon 3.x BB Debugger Strong and easy install.",
+            "homepage": null,
             "id": 177453610,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2019-03-28T17:43:01Z",
+            "open_issues": 0,
             "owner": "ismail0234",
             "repo": "phalcon-bb-debugger",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "bbdebugger",
+              "debugger",
+              "phalcon",
+              "php-debug",
+              "webdebug"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -468,12 +702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extracts translatable strings from source. Identical to xgettext but for template languages.",
+            "homepage": null,
             "id": 4493033,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T03:59:16Z",
+            "open_issues": 5,
             "owner": "gmarty",
             "repo": "xgettext",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -490,12 +729,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sends log messages to the Logentries log management service",
+            "homepage": null,
             "id": 41022770,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2017-04-11T05:57:11Z",
+            "open_issues": 0,
             "owner": "phalcon-orphanage",
             "repo": "phalcon-logentries",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "adapter",
+              "logentries",
+              "logs",
+              "phalcon",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -512,12 +762,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Incubator adapters/functionality for the Phalcon PHP Framework",
+            "homepage": null,
             "id": 6857360,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-05T11:44:58Z",
+            "open_issues": 0,
             "owner": "phalcon",
             "repo": "incubator",
-            "stars": 720
+            "stars": 720,
+            "topics": [
+              "acl",
+              "aerospike-adapter",
+              "database-adapter",
+              "incubator",
+              "mongo-adapter",
+              "mongodb-adapter",
+              "mysql-adapter",
+              "phalcon",
+              "php",
+              "redis-adapter"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -528,12 +794,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful and flexible component for building site breadcrumbs.",
+            "homepage": "https://packagist.org/packages/sergeyklay/breadcrumbs",
             "id": 52214289,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2021-07-16T15:04:19Z",
+            "open_issues": 3,
             "owner": "sergeyklay",
             "repo": "breadcrumbs",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "breadcrumbs",
+              "crumbs",
+              "phalcon",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -544,12 +820,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Phalcon devtools",
+            "homepage": null,
             "id": 83725289,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-09-22T03:12:34Z",
+            "open_issues": 0,
             "owner": "zachleigh",
             "repo": "yarak",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "command-line",
+              "console",
+              "database",
+              "database-seeding",
+              "devtools",
+              "migrations",
+              "model-factory",
+              "phalcon",
+              "seeder"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -560,12 +851,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Returns a log with changes to make in order to upgrade Phalcon from 3.x to 4.x, 3.x to 5.1.x or from 4.x to 5.1.x",
+            "homepage": null,
             "id": 206015697,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-02-28T11:27:05Z",
+            "open_issues": 0,
             "owner": "diplopito",
             "repo": "Phalcon-Upgrade-Adviser",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "phalcon",
+              "phalcon-framework",
+              "phalcon-php"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -576,12 +876,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "phalcon-data-table libiray",
+            "homepage": null,
             "id": 185019109,
             "language": "PHP",
+            "license": null,
             "last_commit": "2019-05-05T11:07:14Z",
+            "open_issues": 0,
             "owner": "maslo2017",
             "repo": "phalcon-data-table",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -598,12 +903,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy Repository pattern for PHP Phalcon framework.",
+            "homepage": null,
             "id": 57220052,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-07-04T07:42:41Z",
+            "open_issues": 0,
             "owner": "micheleangioni",
             "repo": "phalcon-repositories",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "phalcon",
+              "phalcon-repositories",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -614,12 +928,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RedisPlugin for Phalcon",
+            "homepage": null,
             "id": 35199287,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2019-04-08T21:37:30Z",
+            "open_issues": 0,
             "owner": "ienaga",
             "repo": "RedisPlugin",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "mysql",
+              "phalcon",
+              "php7",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -630,12 +954,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Database seeder component for Phalcon",
+            "homepage": null,
             "id": 40818363,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-08T10:19:12Z",
+            "open_issues": 1,
             "owner": "SidRoberts",
             "repo": "phalcon-seeder",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "database",
+              "migration",
+              "phalcon"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -646,12 +979,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically get models based on dispatcher parameters within the Phalcon framework.",
+            "homepage": null,
             "id": 49986132,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-08-11T21:51:05Z",
+            "open_issues": 2,
             "owner": "SidRoberts",
             "repo": "phalcon-boundmodels",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "phalcon"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -668,12 +1008,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Setupify is a Phalcon provisioning and development tool.",
+            "homepage": null,
             "id": 168823720,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-17T20:33:48Z",
+            "open_issues": 1,
             "owner": "perchlabs",
             "repo": "setupify",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "bash-script",
+              "development-tools",
+              "phalcon",
+              "provisioning-scripts",
+              "zephir"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -684,12 +1035,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ansible PHP Phalcon role for Debian",
+            "homepage": null,
             "id": 42922022,
             "language": null,
+            "license": "GPL-2.0",
             "last_commit": "2019-08-07T15:54:37Z",
+            "open_issues": 0,
             "owner": "HanXHX",
             "repo": "ansible-phalcon",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "ansible-role",
+              "debian",
+              "phalcon",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -706,12 +1067,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of an API application using the Phalcon Framework",
+            "homepage": "https://phalcon.io",
             "id": 127645341,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-27T18:03:49Z",
+            "open_issues": 3,
             "owner": "phalcon",
             "repo": "rest-api",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "api",
+              "json-api",
+              "jsonapi",
+              "jwt",
+              "phalcon",
+              "phalcon-php",
+              "rest",
+              "rest-api",
+              "restful-api",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -722,12 +1099,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A composer package designed to help you create a JSON:API in Phalcon",
+            "homepage": null,
             "id": 32551496,
             "language": "PHP",
+            "license": "LGPL-3.0",
             "last_commit": "2019-05-30T11:37:07Z",
+            "open_issues": 6,
             "owner": "gte451f",
             "repo": "phalcon-json-api-package",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -738,12 +1120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phalcon PHP REST API Package, still in beta, please submit issues or pull requests",
+            "homepage": null,
             "id": 19668956,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2021-03-17T13:44:07Z",
+            "open_issues": 3,
             "owner": "phrest",
             "repo": "api",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -760,12 +1147,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple way to auto load modules without complicate definition of routes",
+            "homepage": null,
             "id": 21146731,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2019-03-13T10:40:16Z",
+            "open_issues": 0,
             "owner": "kahur",
             "repo": "Phalcon-autorouter",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -776,12 +1168,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phalcon Routering for Yaml",
+            "homepage": null,
             "id": 70675901,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2019-04-08T21:41:49Z",
+            "open_issues": 0,
             "owner": "ienaga",
             "repo": "PhalconRouter",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "phalcon",
+              "phalcon-router",
+              "php",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -798,12 +1200,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elasticsearch indexer component for Phalcon.",
+            "homepage": null,
             "id": 43640705,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-08-12T03:54:25Z",
+            "open_issues": 2,
             "owner": "SidRoberts",
             "repo": "phalcon-elasticsearchindexer",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "elasticsearch",
+              "phalcon"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -820,12 +1230,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phalcon PHP Meta tags Service",
+            "homepage": null,
             "id": 78631299,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-04-09T00:59:40Z",
+            "open_issues": 1,
             "owner": "izica",
             "repo": "phalcon-meta-tags",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "meta-tags",
+              "phalcon",
+              "phalcon-meta-tags",
+              "phalcon-php",
+              "phalcon-php-framework",
+              "phalconphp",
+              "php",
+              "php-library",
+              "php7",
+              "seo",
+              "seo-friendly",
+              "seo-manager",
+              "seo-meta",
+              "tags"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -842,12 +1272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple shopping cart for Phalcon, example https://ankas.ru",
+            "homepage": null,
             "id": 219980359,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2021-07-21T05:57:25Z",
+            "open_issues": 0,
             "owner": "sinbadxiii",
             "repo": "phalcon-cart",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -864,12 +1299,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Phalcon official Forum",
+            "homepage": "https://forum.phalcon.io",
             "id": 7767182,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2021-01-25T15:18:31Z",
+            "open_issues": 24,
             "owner": "phalcon",
             "repo": "forum",
-            "stars": 363
+            "stars": 363,
+            "topics": [
+              "answers",
+              "board",
+              "discussions",
+              "forum",
+              "forum-site",
+              "phalcon",
+              "php",
+              "qa",
+              "questions"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -880,12 +1330,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Q&A and Forum PHP platform",
+            "homepage": "http://phanbook.com",
             "id": 36341941,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-08T07:25:20Z",
+            "open_issues": 14,
             "owner": "phanbook",
             "repo": "phanbook",
-            "stars": 298
+            "stars": 298,
+            "topics": [
+              "forum",
+              "gratipay",
+              "phalcon-php",
+              "phanbook",
+              "slack"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -902,12 +1363,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Twig Template Engine to Phalcon PHP",
+            "homepage": null,
             "id": 75418346,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-08-23T18:00:28Z",
+            "open_issues": 0,
             "owner": "vinyvicente",
             "repo": "phalcon-twig",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "miscellaneous",
+              "phalcon-template",
+              "phalcon-twig",
+              "template-engine",
+              "twig"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -924,12 +1396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 44760239,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2022-03-11T23:22:56Z",
+            "open_issues": 1,
             "owner": "Codeception",
             "repo": "phalcon-demo",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -946,12 +1423,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Vagrant configuration for PHP7, Phalcon 3.x and Zephir development.",
+            "homepage": null,
             "id": 58855839,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-02-08T10:22:55Z",
+            "open_issues": 13,
             "owner": "eugene-manuilov",
             "repo": "phalcon-vm",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "elasticsearch",
+              "gearman",
+              "gearman-ui",
+              "memcache",
+              "mongodb",
+              "mysql",
+              "nginx",
+              "phalcon-php-framework",
+              "php7",
+              "phpmemcacheadmin",
+              "phpmyadmin",
+              "phppgadmin",
+              "postgresql",
+              "puppet",
+              "rabbitmq",
+              "redis",
+              "sphinx-search",
+              "vagrant",
+              "varnish",
+              "zephir"
+            ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -962,12 +1465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phalcon 3, PHP7, Docker sample starter application",
+            "homepage": null,
             "id": 73101203,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2017-01-26T08:29:41Z",
+            "open_issues": 1,
             "owner": "viebig",
             "repo": "phalcon-docker-nginx",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         },
@@ -978,12 +1486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 91108078,
             "language": null,
+            "license": null,
             "last_commit": "2017-05-31T14:40:41Z",
+            "open_issues": 0,
             "owner": "linxlad",
             "repo": "phalcon3-compose",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
         }
@@ -992,15 +1505,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:44:30.026Z",
+    "last_updated": "2026-08-29T04:40:43.628Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Phalcon libraries and resources",
+      "homepage": null,
       "id": 36503415,
       "language": "Ruby",
+      "license": "MIT",
       "last_commit": "2024-02-16T13:41:59Z",
+      "open_issues": 0,
       "owner": "phalcon",
       "repo": "awesome-phalcon",
-      "stars": 612
+      "stars": 612,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list",
+        "phalcon",
+        "phalcon-ansible",
+        "phalcon-application",
+        "phalcon-boilerplate",
+        "phalcon-documentation",
+        "phalcon-libraries",
+        "phalcon-mailer",
+        "phalcon-php-framework",
+        "phalcon-rest",
+        "phalcon-skeleton",
+        "phalcon-validators",
+        "php"
+      ]
     },
     "original_repository_sha": "6a0fbbd2fa66c2aba79770a2b6671cb4d0ed1c5f",
     "enhanced_repository": "enhansome/enhansome-phalcon",
