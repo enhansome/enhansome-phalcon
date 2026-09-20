@@ -1,9 +1,9 @@
 # Awesome Phalcon with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,858 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,232 | 🐛 106 | 📅 2026-09-02
 [![Actions Status](https://github.com/phalcon/awesome-phalcon/workflows/CI/badge.svg)](https://github.com/phalcon/awesome-phalcon/actions) ⭐ 611 | 🐛 0 | 🌐 Ruby | 📅 2024-02-16
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 184,792 | 🐛 230 | 🌐 Go | 📅 2026-09-18.
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 184,918 | 🐛 230 | 🌐 Go | 📅 2026-09-20.
 
 ### Contributing
 
@@ -59,8 +59,8 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *Various application skeletons.*
 
 * [MVC](https://github.com/phalcon/mvc) ⭐ 815 | 🐛 2 | 🌐 PHP | 📅 2026-07-14 - Examples of Phalcon MVC file structures
-* [Vökuró](https://github.com/phalcon/vokuro) ⭐ 365 | 🐛 0 | 🌐 PHP | 📅 2026-09-19 - Sample application for Phalcon Framework (Acl, Auth, Security)
-* [INVO Application](https://github.com/phalcon/invo) ⭐ 345 | 🐛 3 | 🌐 PHP | 📅 2026-09-16 - Sample application for the Phalcon Framework
+* [Vökuró](https://github.com/phalcon/vokuro) ⭐ 365 | 🐛 0 | 🌐 PHP | 📅 2026-09-20 - Sample application for Phalcon Framework (Acl, Auth, Security)
+* [INVO Application](https://github.com/phalcon/invo) ⭐ 345 | 🐛 0 | 🌐 PHP | 📅 2026-09-20 - Sample application for the Phalcon Framework
 * [Webird](https://github.com/perchlabs/webird) ⚠️ Archived - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) ⚠️ Archived - Sample modular application for the Phalcon Framework
 * [Base App](https://github.com/mruz/base-app) ⭐ 63 | 🐛 5 | 🌐 PHP | 📅 2016-04-26 - The base application in Phalcon Framework
@@ -169,7 +169,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *Representational state transfer.*
 
-* [REST API](https://github.com/phalcon/rest-api) ⭐ 93 | 🐛 6 | 🌐 PHP | 📅 2026-09-16 - Implementation of an API application using the Phalcon
+* [REST API](https://github.com/phalcon/rest-api) ⭐ 93 | 🐛 4 | 🌐 PHP | 📅 2026-09-20 - Implementation of an API application using the Phalcon
 * [phalcon-json-api-package](https://github.com/gte451f/phalcon-json-api-package) ⚠️ Archived - A composer package designed to help you create a JSON:API in Phalcon
 * [PhREST API](https://github.com/phrest/api) ⭐ 30 | 🐛 3 | 🌐 PHP | 📅 2021-03-17 - Phalcon Framework REST API Package
 
@@ -265,4 +265,4 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
