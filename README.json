@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "phalcon",
             "repo": "mvc",
-            "stars": 815,
+            "stars": 814,
             "topics": [
               "mvc-pattern",
               "phalcon-mvc",
@@ -771,7 +771,7 @@
             "open_issues": 0,
             "owner": "phalcon",
             "repo": "incubator",
-            "stars": 720,
+            "stars": 719,
             "topics": [
               "acl",
               "aerospike-adapter",
@@ -1308,7 +1308,7 @@
             "open_issues": 24,
             "owner": "phalcon",
             "repo": "forum",
-            "stars": 363,
+            "stars": 362,
             "topics": [
               "answers",
               "board",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T22:14:00.643Z",
+    "last_updated": "2026-09-21T23:02:33.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",
