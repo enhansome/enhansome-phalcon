@@ -374,7 +374,7 @@
             "id": 189234245,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-15T08:17:07Z",
+            "last_commit": "2026-09-22T13:30:18Z",
             "open_issues": 8,
             "owner": "krazzer",
             "repo": "kikcms",
@@ -395,7 +395,7 @@
             "id": 23807780,
             "language": "Pug",
             "license": "GPL-3.0",
-            "last_commit": "2026-06-18T17:50:52Z",
+            "last_commit": "2026-09-22T14:15:25Z",
             "open_issues": 10,
             "owner": "monocasual",
             "repo": "giada-www",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T23:02:33.462Z",
+    "last_updated": "2026-09-22T22:45:53.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",
