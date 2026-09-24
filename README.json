@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "phalcon",
             "repo": "mvc",
-            "stars": 814,
+            "stars": 815,
             "topics": [
               "mvc-pattern",
               "phalcon-mvc",
@@ -44,7 +44,7 @@
             "open_issues": 0,
             "owner": "phalcon",
             "repo": "vokuro",
-            "stars": 365,
+            "stars": 366,
             "topics": [
               "acl",
               "demo",
@@ -75,7 +75,7 @@
             "open_issues": 0,
             "owner": "phalcon",
             "repo": "invo",
-            "stars": 345,
+            "stars": 346,
             "topics": [
               "demo",
               "invo",
@@ -125,7 +125,7 @@
             "open_issues": 0,
             "owner": "phalcon",
             "repo": "album-o-rama",
-            "stars": 84,
+            "stars": 85,
             "topics": [
               "phalcon",
               "phalconphp",
@@ -330,7 +330,7 @@
             "open_issues": 7,
             "owner": "alexander-torosh",
             "repo": "yona-cms",
-            "stars": 363,
+            "stars": 364,
             "topics": [
               "phalcon",
               "phalcon-php",
@@ -374,7 +374,7 @@
             "id": 189234245,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-22T13:30:18Z",
+            "last_commit": "2026-09-24T09:12:33Z",
             "open_issues": 8,
             "owner": "krazzer",
             "repo": "kikcms",
@@ -1308,7 +1308,7 @@
             "open_issues": 24,
             "owner": "phalcon",
             "repo": "forum",
-            "stars": 362,
+            "stars": 363,
             "topics": [
               "answers",
               "board",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T22:45:06.916Z",
+    "last_updated": "2026-09-24T23:03:09.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",
