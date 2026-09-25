@@ -299,7 +299,7 @@
             "id": 346650556,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-02-26T09:23:06Z",
+            "last_commit": "2026-09-25T12:28:25Z",
             "open_issues": 0,
             "owner": "sinbadxiii",
             "repo": "phalcon-auth",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T23:03:09.073Z",
+    "last_updated": "2026-09-25T23:07:48.474Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",

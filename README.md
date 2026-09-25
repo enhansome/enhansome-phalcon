@@ -1,9 +1,9 @@
 # Awesome Phalcon with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,952 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,438 | 🐛 107 | 📅 2026-09-02
 [![Actions Status](https://github.com/phalcon/awesome-phalcon/workflows/CI/badge.svg)](https://github.com/phalcon/awesome-phalcon/actions) ⭐ 611 | 🐛 0 | 🌐 Ruby | 📅 2024-02-16
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 185,440 | 🐛 229 | 🌐 Go | 📅 2026-09-24.
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 185,591 | 🐛 229 | 🌐 Go | 📅 2026-09-25.
 
 ### Contributing
 
@@ -74,7 +74,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 * [phalcon-authmiddleware](https://github.com/SidRoberts/phalcon-authmiddleware) ⭐ 28 | 🐛 2 | 🌐 PHP | 📅 2025-08-11 - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library.
 * [Padlock](https://github.com/tegaphilip/padlock) ⭐ 27 | 🐛 5 | 🌐 PHP | 📅 2022-06-21 - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server
-* [Phalcon Auth](https://github.com/sinbadxiii/phalcon-auth) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2026-02-26 - Out-of-the-box authentication component based on guards and providers.
+* [Phalcon Auth](https://github.com/sinbadxiii/phalcon-auth) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2026-09-25 - Out-of-the-box authentication component based on guards and providers.
 
 ## CMS & Blogs
 
@@ -265,4 +265,4 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
