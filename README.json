@@ -374,7 +374,7 @@
             "id": 189234245,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-29T08:04:33Z",
+            "last_commit": "2026-10-01T07:04:23Z",
             "open_issues": 8,
             "owner": "krazzer",
             "repo": "kikcms",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:31:38.947Z",
+    "last_updated": "2026-10-01T23:43:13.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",
