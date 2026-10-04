@@ -1,9 +1,9 @@
 # Awesome Phalcon with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,128 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,671 | 🐛 107 | 📅 2026-09-02
 [![Actions Status](https://github.com/phalcon/awesome-phalcon/workflows/CI/badge.svg)](https://github.com/phalcon/awesome-phalcon/actions)
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 186,762 | 🐛 84 | 🌐 Go | 📅 2026-10-03.
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 186,948 | 🐛 65 | 🌐 Go | 📅 2026-10-04.
 
 ### Contributing
 
@@ -59,7 +59,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *Various application skeletons.*
 
 * [MVC](https://github.com/phalcon/mvc) ⭐ 815 | 🐛 2 | 🌐 PHP | 📅 2026-07-14 - Examples of Phalcon MVC file structures
-* [Vökuró](https://github.com/phalcon/vokuro) ⭐ 366 | 🐛 0 | 🌐 PHP | 📅 2026-09-23 - Sample application for Phalcon Framework (Acl, Auth, Security)
+* [Vökuró](https://github.com/phalcon/vokuro) ⭐ 366 | 🐛 2 | 🌐 PHP | 📅 2026-10-04 - Sample application for Phalcon Framework (Acl, Auth, Security)
 * [INVO Application](https://github.com/phalcon/invo) ⭐ 346 | 🐛 1 | 🌐 PHP | 📅 2026-09-30 - Sample application for the Phalcon Framework
 * [Webird](https://github.com/perchlabs/webird) ⚠️ Archived - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) ⚠️ Archived - Sample modular application for the Phalcon Framework
@@ -265,4 +265,4 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
