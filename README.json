@@ -707,8 +707,8 @@
             "id": 4493033,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T20:39:05Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-13T13:26:36Z",
+            "open_issues": 5,
             "owner": "gmarty",
             "repo": "xgettext",
             "stars": 78,
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T01:51:19.272Z",
+    "last_updated": "2026-10-13T23:37:25.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",
