@@ -40,8 +40,8 @@
             "id": 9816679,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-12T22:11:02Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-18T09:42:27Z",
+            "open_issues": 1,
             "owner": "phalcon",
             "repo": "vokuro",
             "stars": 366,
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:59:07.641Z",
+    "last_updated": "2026-10-18T22:15:35.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",
