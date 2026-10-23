@@ -693,33 +693,6 @@
       "title": "Debug"
     },
     {
-      "description": "List of i18n and l10n libraries and services.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "xgettext-template",
-          "description": "Extract gettext messages from Volt templates using a command line program that is identical to the xgettext invocation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Extracts translatable strings from source. Identical to xgettext but for template languages.",
-            "homepage": null,
-            "id": 4493033,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-10-14T07:45:59Z",
-            "open_issues": 5,
-            "owner": "gmarty",
-            "repo": "xgettext",
-            "stars": 78,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:04:41.025Z"
-        }
-      ],
-      "title": "i18n"
-    },
-    {
       "description": "Integration with third party services",
       "items": [
         {
@@ -748,6 +721,42 @@
             ]
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
+        },
+        {
+          "node_type": "item",
+          "title": "phalcon-inertia",
+          "description": "Server-side adapter for Inertia.js, with Ziggy style named routes for JavaScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Inertia.js server adapter for Phalcon 3.4 to 6, with Ziggy style named routes for JavaScript.",
+            "homepage": null,
+            "id": 1428987513,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-10-23T07:26:00Z",
+            "open_issues": 0,
+            "owner": "wielorzeczownik",
+            "repo": "phalcon-inertia",
+            "stars": 0,
+            "topics": [
+              "composer",
+              "inertia",
+              "inertiajs",
+              "phalcon",
+              "php",
+              "react",
+              "routes",
+              "spa",
+              "ssr",
+              "svelte",
+              "typescript",
+              "vite",
+              "vue",
+              "ziggy"
+            ]
+          },
+          "first_seen": "2026-10-23T22:55:54.851Z"
         }
       ],
       "title": "Integration"
@@ -771,7 +780,7 @@
             "open_issues": 0,
             "owner": "phalcon",
             "repo": "incubator",
-            "stars": 717,
+            "stars": 716,
             "topics": [
               "acl",
               "aerospike-adapter",
@@ -1505,7 +1514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T22:59:47.724Z",
+    "last_updated": "2026-10-23T22:55:54.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",
@@ -1513,8 +1522,8 @@
       "id": 36503415,
       "language": "Ruby",
       "license": "MIT",
-      "last_commit": "2024-02-16T13:41:59Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-23T03:25:35Z",
+      "open_issues": 0,
       "owner": "phalcon",
       "repo": "awesome-phalcon",
       "stars": 611,
@@ -1536,7 +1545,7 @@
         "php"
       ]
     },
-    "original_repository_sha": "6a0fbbd2fa66c2aba79770a2b6671cb4d0ed1c5f",
+    "original_repository_sha": "38e4374d9ac38599438f1e79d686bdec781957ae",
     "enhanced_repository": "enhansome/enhansome-phalcon",
     "enhanced_repository_description": null,
     "title": "Awesome Phalcon with stars"
