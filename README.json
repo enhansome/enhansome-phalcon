@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "phalcon",
             "repo": "mvc",
-            "stars": 815,
+            "stars": 814,
             "topics": [
               "mvc-pattern",
               "phalcon-mvc",
@@ -44,7 +44,7 @@
             "open_issues": 1,
             "owner": "phalcon",
             "repo": "vokuro",
-            "stars": 366,
+            "stars": 365,
             "topics": [
               "acl",
               "demo",
@@ -75,7 +75,7 @@
             "open_issues": 0,
             "owner": "phalcon",
             "repo": "invo",
-            "stars": 346,
+            "stars": 345,
             "topics": [
               "demo",
               "invo",
@@ -734,7 +734,7 @@
             "id": 1428987513,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-23T07:26:00Z",
+            "last_commit": "2026-10-24T20:30:47Z",
             "open_issues": 0,
             "owner": "wielorzeczownik",
             "repo": "phalcon-inertia",
@@ -1514,7 +1514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T22:55:54.851Z",
+    "last_updated": "2026-10-24T22:16:17.095Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",

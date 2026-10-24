@@ -1,9 +1,9 @@
 # Awesome Phalcon with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,635 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,137 | 🐛 105 | 📅 2026-09-02
 [![Actions Status](https://github.com/phalcon/awesome-phalcon/workflows/CI/badge.svg)](https://github.com/phalcon/awesome-phalcon/actions)
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 189,990 | 🐛 85 | 🌐 Go | 📅 2026-10-23.
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 190,155 | 🐛 86 | 🌐 Go | 📅 2026-10-23.
 
 ### Contributing
 
@@ -58,9 +58,9 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *Various application skeletons.*
 
-* [MVC](https://github.com/phalcon/mvc) ⭐ 815 | 🐛 2 | 🌐 PHP | 📅 2026-07-14 - Examples of Phalcon MVC file structures
-* [Vökuró](https://github.com/phalcon/vokuro) ⭐ 366 | 🐛 1 | 🌐 PHP | 📅 2026-10-18 - Sample application for Phalcon Framework (Acl, Auth, Security)
-* [INVO Application](https://github.com/phalcon/invo) ⭐ 346 | 🐛 0 | 🌐 PHP | 📅 2026-10-15 - Sample application for the Phalcon Framework
+* [MVC](https://github.com/phalcon/mvc) ⭐ 814 | 🐛 2 | 🌐 PHP | 📅 2026-07-14 - Examples of Phalcon MVC file structures
+* [Vökuró](https://github.com/phalcon/vokuro) ⭐ 365 | 🐛 1 | 🌐 PHP | 📅 2026-10-18 - Sample application for Phalcon Framework (Acl, Auth, Security)
+* [INVO Application](https://github.com/phalcon/invo) ⭐ 345 | 🐛 0 | 🌐 PHP | 📅 2026-10-15 - Sample application for the Phalcon Framework
 * [Webird](https://github.com/perchlabs/webird) ⚠️ Archived - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) ⚠️ Archived - Sample modular application for the Phalcon Framework
 * [Base App](https://github.com/mruz/base-app) ⭐ 63 | 🐛 5 | 🌐 PHP | 📅 2016-04-26 - The base application in Phalcon Framework
@@ -125,7 +125,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *Integration with third party services*
 
 * [phalcon-logentries](https://github.com/phalcon-orphanage/phalcon-logentries) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2017-04-11 - Sends log messages to the [Logentries](https://logentries.com/) log management service
-* [phalcon-inertia](https://github.com/wielorzeczownik/phalcon-inertia) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-10-23 - Server-side adapter for [Inertia.js](https://inertiajs.com/), with Ziggy style named routes for JavaScript
+* [phalcon-inertia](https://github.com/wielorzeczownik/phalcon-inertia) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-10-24 - Server-side adapter for [Inertia.js](https://inertiajs.com/), with Ziggy style named routes for JavaScript
 
 ## IDE
 
@@ -266,4 +266,4 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
