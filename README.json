@@ -374,11 +374,11 @@
             "id": 189234245,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-20T07:56:44Z",
+            "last_commit": "2026-10-26T13:49:37Z",
             "open_issues": 8,
             "owner": "krazzer",
             "repo": "kikcms",
-            "stars": 59,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
@@ -734,8 +734,8 @@
             "id": 1428987513,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-25T15:50:33Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-27T23:07:30Z",
+            "open_issues": 1,
             "owner": "wielorzeczownik",
             "repo": "phalcon-inertia",
             "stars": 0,
@@ -1345,7 +1345,7 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-08-08T07:25:20Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "phanbook",
             "repo": "phanbook",
             "stars": 298,
@@ -1514,7 +1514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T22:20:29.351Z",
+    "last_updated": "2026-10-27T23:33:53.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",
@@ -1526,7 +1526,7 @@
       "open_issues": 0,
       "owner": "phalcon",
       "repo": "awesome-phalcon",
-      "stars": 611,
+      "stars": 612,
       "topics": [
         "awesome",
         "awesome-list",
