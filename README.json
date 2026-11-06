@@ -734,7 +734,7 @@
             "id": 1428987513,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-02T14:19:29Z",
+            "last_commit": "2026-11-05T18:30:43Z",
             "open_issues": 1,
             "owner": "wielorzeczownik",
             "repo": "phalcon-inertia",
@@ -1514,7 +1514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T00:45:09.935Z",
+    "last_updated": "2026-11-06T00:49:51.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",
