@@ -738,7 +738,7 @@
             "open_issues": 1,
             "owner": "wielorzeczownik",
             "repo": "phalcon-inertia",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "composer",
               "inertia",
@@ -1248,7 +1248,7 @@
             "open_issues": 1,
             "owner": "izica",
             "repo": "phalcon-meta-tags",
-            "stars": 12,
+            "stars": 11,
             "topics": [
               "meta-tags",
               "phalcon",
@@ -1348,7 +1348,7 @@
             "open_issues": 15,
             "owner": "phanbook",
             "repo": "phanbook",
-            "stars": 298,
+            "stars": 297,
             "topics": [
               "forum",
               "gratipay",
@@ -1514,7 +1514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T00:49:51.776Z",
+    "last_updated": "2026-11-06T23:58:07.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",

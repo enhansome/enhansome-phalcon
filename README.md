@@ -1,9 +1,9 @@
 # Awesome Phalcon with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 531,762 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,496 | 🐛 103 | 📅 2026-09-02
 [![Actions Status](https://github.com/phalcon/awesome-phalcon/workflows/CI/badge.svg)](https://github.com/phalcon/awesome-phalcon/actions)
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 192,272 | 🐛 111 | 🌐 Go | 📅 2026-11-05.
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 192,436 | 🐛 111 | 🌐 Go | 📅 2026-11-06.
 
 ### Contributing
 
@@ -125,7 +125,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *Integration with third party services*
 
 * [phalcon-logentries](https://github.com/phalcon-orphanage/phalcon-logentries) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2017-04-11 - Sends log messages to the [Logentries](https://logentries.com/) log management service
-* [phalcon-inertia](https://github.com/wielorzeczownik/phalcon-inertia) ⭐ 0 | 🐛 1 | 🌐 PHP | 📅 2026-11-05 - Server-side adapter for [Inertia.js](https://inertiajs.com/), with Ziggy style named routes for JavaScript
+* [phalcon-inertia](https://github.com/wielorzeczownik/phalcon-inertia) ⭐ 1 | 🐛 1 | 🌐 PHP | 📅 2026-11-05 - Server-side adapter for [Inertia.js](https://inertiajs.com/), with Ziggy style named routes for JavaScript
 
 ## IDE
 
@@ -191,7 +191,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *Seo tools.*
 
-* [Phalcon meta tags](https://github.com/izica/phalcon-meta-tags) ⭐ 12 | 🐛 1 | 🌐 PHP | 📅 2023-04-09 - Tools for work with meta tags.
+* [Phalcon meta tags](https://github.com/izica/phalcon-meta-tags) ⭐ 11 | 🐛 1 | 🌐 PHP | 📅 2023-04-09 - Tools for work with meta tags.
 
 ## Shop & Ecommerce
 
@@ -202,7 +202,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *Conferences, Chats, Forums, etc..*
 
 * [Phosphorum](https://github.com/phalcon/forum) ⚠️ Archived - The source for official Phalcon Forum
-* [Phanbook](https://github.com/phanbook/phanbook/) ⭐ 298 | 🐛 15 | 🌐 PHP | 📅 2026-08-08 - The source for code phanbook.com website
+* [Phanbook](https://github.com/phanbook/phanbook/) ⭐ 297 | 🐛 15 | 🌐 PHP | 📅 2026-08-08 - The source for code phanbook.com website
 
 ## Templating
 
