@@ -734,8 +734,8 @@
             "id": 1428987513,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-05T18:30:43Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-10T00:27:10Z",
+            "open_issues": 7,
             "owner": "wielorzeczownik",
             "repo": "phalcon-inertia",
             "stars": 1,
@@ -1348,7 +1348,7 @@
             "open_issues": 15,
             "owner": "phanbook",
             "repo": "phanbook",
-            "stars": 297,
+            "stars": 298,
             "topics": [
               "forum",
               "gratipay",
@@ -1514,7 +1514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T23:26:59.633Z",
+    "last_updated": "2026-11-10T02:34:23.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",
