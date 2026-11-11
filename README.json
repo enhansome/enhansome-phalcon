@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "phalcon",
             "repo": "mvc",
-            "stars": 815,
+            "stars": 816,
             "topics": [
               "mvc-pattern",
               "phalcon-mvc",
@@ -44,7 +44,7 @@
             "open_issues": 1,
             "owner": "phalcon",
             "repo": "vokuro",
-            "stars": 365,
+            "stars": 366,
             "topics": [
               "acl",
               "demo",
@@ -75,7 +75,7 @@
             "open_issues": 0,
             "owner": "phalcon",
             "repo": "invo",
-            "stars": 345,
+            "stars": 346,
             "topics": [
               "demo",
               "invo",
@@ -125,7 +125,7 @@
             "open_issues": 0,
             "owner": "phalcon",
             "repo": "album-o-rama",
-            "stars": 85,
+            "stars": 84,
             "topics": [
               "phalcon",
               "phalconphp",
@@ -330,7 +330,7 @@
             "open_issues": 7,
             "owner": "alexander-torosh",
             "repo": "yona-cms",
-            "stars": 364,
+            "stars": 365,
             "topics": [
               "phalcon",
               "phalcon-php",
@@ -595,7 +595,7 @@
             "open_issues": 19,
             "owner": "fabfuel",
             "repo": "prophiler",
-            "stars": 438,
+            "stars": 439,
             "topics": [
               "benchmark",
               "developer-toolbar",
@@ -734,8 +734,8 @@
             "id": 1428987513,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-10T00:27:10Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-10T14:50:15Z",
+            "open_issues": 1,
             "owner": "wielorzeczownik",
             "repo": "phalcon-inertia",
             "stars": 1,
@@ -780,7 +780,7 @@
             "open_issues": 0,
             "owner": "phalcon",
             "repo": "incubator",
-            "stars": 716,
+            "stars": 717,
             "topics": [
               "acl",
               "aerospike-adapter",
@@ -1317,7 +1317,7 @@
             "open_issues": 24,
             "owner": "phalcon",
             "repo": "forum",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "answers",
               "board",
@@ -1514,7 +1514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:34:23.263Z",
+    "last_updated": "2026-11-11T00:26:29.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",
@@ -1526,7 +1526,7 @@
       "open_issues": 0,
       "owner": "phalcon",
       "repo": "awesome-phalcon",
-      "stars": 611,
+      "stars": 612,
       "topics": [
         "awesome",
         "awesome-list",
