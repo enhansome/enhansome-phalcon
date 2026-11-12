@@ -1,9 +1,9 @@
 # Awesome Phalcon with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 534,875 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 535,387 | 🐛 103 | 📅 2026-09-02
 [![Actions Status](https://github.com/phalcon/awesome-phalcon/workflows/CI/badge.svg)](https://github.com/phalcon/awesome-phalcon/actions)
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 193,172 | 🐛 123 | 🌐 Go | 📅 2026-11-10.
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 193,368 | 🐛 133 | 🌐 Go | 📅 2026-11-11.
 
 ### Contributing
 
@@ -59,8 +59,8 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *Various application skeletons.*
 
 * [MVC](https://github.com/phalcon/mvc) ⭐ 816 | 🐛 2 | 🌐 PHP | 📅 2026-07-14 - Examples of Phalcon MVC file structures
-* [Vökuró](https://github.com/phalcon/vokuro) ⭐ 366 | 🐛 1 | 🌐 PHP | 📅 2026-11-08 - Sample application for Phalcon Framework (Acl, Auth, Security)
-* [INVO Application](https://github.com/phalcon/invo) ⭐ 346 | 🐛 0 | 🌐 PHP | 📅 2026-11-07 - Sample application for the Phalcon Framework
+* [Vökuró](https://github.com/phalcon/vokuro) ⭐ 366 | 🐛 0 | 🌐 PHP | 📅 2026-11-11 - Sample application for Phalcon Framework (Acl, Auth, Security)
+* [INVO Application](https://github.com/phalcon/invo) ⭐ 346 | 🐛 5 | 🌐 PHP | 📅 2026-11-11 - Sample application for the Phalcon Framework
 * [Webird](https://github.com/perchlabs/webird) ⚠️ Archived - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) ⚠️ Archived - Sample modular application for the Phalcon Framework
 * [Base App](https://github.com/mruz/base-app) ⭐ 63 | 🐛 5 | 🌐 PHP | 📅 2016-04-26 - The base application in Phalcon Framework
@@ -125,7 +125,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *Integration with third party services*
 
 * [phalcon-logentries](https://github.com/phalcon-orphanage/phalcon-logentries) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2017-04-11 - Sends log messages to the [Logentries](https://logentries.com/) log management service
-* [phalcon-inertia](https://github.com/wielorzeczownik/phalcon-inertia) ⭐ 1 | 🐛 1 | 🌐 PHP | 📅 2026-11-10 - Server-side adapter for [Inertia.js](https://inertiajs.com/), with Ziggy style named routes for JavaScript
+* [phalcon-inertia](https://github.com/wielorzeczownik/phalcon-inertia) ⭐ 1 | 🐛 1 | 🌐 PHP | 📅 2026-11-11 - Server-side adapter for [Inertia.js](https://inertiajs.com/), with Ziggy style named routes for JavaScript
 
 ## IDE
 
@@ -170,7 +170,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *Representational state transfer.*
 
-* [REST API](https://github.com/phalcon/rest-api) ⭐ 93 | 🐛 4 | 🌐 PHP | 📅 2026-11-07 - Implementation of an API application using the Phalcon
+* [REST API](https://github.com/phalcon/rest-api) ⭐ 93 | 🐛 3 | 🌐 PHP | 📅 2026-11-11 - Implementation of an API application using the Phalcon
 * [phalcon-json-api-package](https://github.com/gte451f/phalcon-json-api-package) ⚠️ Archived - A composer package designed to help you create a JSON:API in Phalcon
 * [PhREST API](https://github.com/phrest/api) ⭐ 30 | 🐛 3 | 🌐 PHP | 📅 2021-03-17 - Phalcon Framework REST API Package
 
@@ -202,7 +202,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *Conferences, Chats, Forums, etc..*
 
 * [Phosphorum](https://github.com/phalcon/forum) ⚠️ Archived - The source for official Phalcon Forum
-* [Phanbook](https://github.com/phanbook/phanbook/) ⭐ 298 | 🐛 15 | 🌐 PHP | 📅 2026-08-08 - The source for code phanbook.com website
+* [Phanbook](https://github.com/phanbook/phanbook/) ⭐ 297 | 🐛 15 | 🌐 PHP | 📅 2026-08-08 - The source for code phanbook.com website
 
 ## Templating
 
@@ -266,4 +266,4 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
