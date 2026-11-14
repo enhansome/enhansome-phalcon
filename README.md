@@ -1,9 +1,9 @@
 # Awesome Phalcon with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,462 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,935 | 🐛 104 | 📅 2026-09-02
 [![Actions Status](https://github.com/phalcon/awesome-phalcon/workflows/CI/badge.svg)](https://github.com/phalcon/awesome-phalcon/actions)
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 193,775 | 🐛 128 | 🌐 Go | 📅 2026-11-13.
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 193,933 | 🐛 126 | 🌐 Go | 📅 2026-11-14.
 
 ### Contributing
 
@@ -58,7 +58,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *Various application skeletons.*
 
-* [MVC](https://github.com/phalcon/mvc) ⭐ 816 | 🐛 2 | 🌐 PHP | 📅 2026-07-14 - Examples of Phalcon MVC file structures
+* [MVC](https://github.com/phalcon/mvc) ⭐ 815 | 🐛 2 | 🌐 PHP | 📅 2026-07-14 - Examples of Phalcon MVC file structures
 * [Vökuró](https://github.com/phalcon/vokuro) ⭐ 366 | 🐛 0 | 🌐 PHP | 📅 2026-11-11 - Sample application for Phalcon Framework (Acl, Auth, Security)
 * [INVO Application](https://github.com/phalcon/invo) ⭐ 346 | 🐛 5 | 🌐 PHP | 📅 2026-11-11 - Sample application for the Phalcon Framework
 * [Webird](https://github.com/perchlabs/webird) ⚠️ Archived - Webird was created to merge the latest PHP and Node.js innovations into a single application stack

@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "phalcon",
             "repo": "mvc",
-            "stars": 816,
+            "stars": 815,
             "topics": [
               "mvc-pattern",
               "phalcon-mvc",
@@ -1514,7 +1514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:43:09.276Z",
+    "last_updated": "2026-11-14T23:41:12.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",
