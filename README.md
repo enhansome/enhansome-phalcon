@@ -1,9 +1,9 @@
 # Awesome Phalcon with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 535,949 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,462 | 🐛 104 | 📅 2026-09-02
 [![Actions Status](https://github.com/phalcon/awesome-phalcon/workflows/CI/badge.svg)](https://github.com/phalcon/awesome-phalcon/actions)
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 193,572 | 🐛 132 | 🌐 Go | 📅 2026-11-12.
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 193,775 | 🐛 128 | 🌐 Go | 📅 2026-11-13.
 
 ### Contributing
 
@@ -202,7 +202,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *Conferences, Chats, Forums, etc..*
 
 * [Phosphorum](https://github.com/phalcon/forum) ⚠️ Archived - The source for official Phalcon Forum
-* [Phanbook](https://github.com/phanbook/phanbook/) ⭐ 297 | 🐛 15 | 🌐 PHP | 📅 2026-08-08 - The source for code phanbook.com website
+* [Phanbook](https://github.com/phanbook/phanbook/) ⭐ 297 | 🐛 16 | 🌐 PHP | 📅 2026-08-08 - The source for code phanbook.com website
 
 ## Templating
 
@@ -266,4 +266,4 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

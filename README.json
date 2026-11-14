@@ -1345,7 +1345,7 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-08-08T07:25:20Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "phanbook",
             "repo": "phanbook",
             "stars": 297,
@@ -1514,7 +1514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T00:55:07.976Z",
+    "last_updated": "2026-11-14T00:43:09.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",
