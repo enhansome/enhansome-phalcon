@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "phalcon",
             "repo": "mvc",
-            "stars": 815,
+            "stars": 814,
             "topics": [
               "mvc-pattern",
               "phalcon-mvc",
@@ -71,11 +71,11 @@
             "id": 3989277,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-19T00:58:47Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-19T02:31:59Z",
+            "open_issues": 0,
             "owner": "phalcon",
             "repo": "invo",
-            "stars": 346,
+            "stars": 345,
             "topics": [
               "demo",
               "invo",
@@ -330,7 +330,7 @@
             "open_issues": 7,
             "owner": "alexander-torosh",
             "repo": "yona-cms",
-            "stars": 365,
+            "stars": 364,
             "topics": [
               "phalcon",
               "phalcon-php",
@@ -595,7 +595,7 @@
             "open_issues": 19,
             "owner": "fabfuel",
             "repo": "prophiler",
-            "stars": 439,
+            "stars": 438,
             "topics": [
               "benchmark",
               "developer-toolbar",
@@ -780,7 +780,7 @@
             "open_issues": 0,
             "owner": "phalcon",
             "repo": "incubator",
-            "stars": 717,
+            "stars": 716,
             "topics": [
               "acl",
               "aerospike-adapter",
@@ -1317,7 +1317,7 @@
             "open_issues": 24,
             "owner": "phalcon",
             "repo": "forum",
-            "stars": 362,
+            "stars": 361,
             "topics": [
               "answers",
               "board",
@@ -1514,7 +1514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:45:00.425Z",
+    "last_updated": "2026-11-20T01:40:26.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",
