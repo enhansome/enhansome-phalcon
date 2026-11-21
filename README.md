@@ -1,9 +1,9 @@
 # Awesome Phalcon with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,561 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,041 | 🐛 103 | 📅 2026-09-02
 [![Actions Status](https://github.com/phalcon/awesome-phalcon/workflows/CI/badge.svg)](https://github.com/phalcon/awesome-phalcon/actions)
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 194,856 | 🐛 116 | 🌐 Go | 📅 2026-11-19.
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 195,037 | 🐛 116 | 🌐 Go | 📅 2026-11-19.
 
 ### Contributing
 
@@ -81,7 +81,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *Content management systems & blogs.*
 
 * [Yona CMS](https://github.com/alexander-torosh/yona-cms) ⭐ 364 | 🐛 7 | 🌐 PHP | 📅 2021-08-31 - CMS based on Phalcon Framework with modular structure
-* [PhalconCMS](https://github.com/KevinJay/PhalconCMS) ⭐ 152 | 🐛 0 | 🌐 PHP | 📅 2023-06-19 - A blog built on Phalcon Framework
+* [PhalconCMS](https://github.com/KevinJay/PhalconCMS) ⭐ 153 | 🐛 0 | 🌐 PHP | 📅 2023-06-19 - A blog built on Phalcon Framework
 * [KikCMS](https://github.com/krazzer/kikcms) ⭐ 58 | 🐛 8 | 🌐 PHP | 📅 2026-11-03 - CMS built on Phalcon Framework
 * [giada-www](https://github.com/monocasual/giada-www) ⭐ 15 | 🐛 10 | 🌐 Pug | 📅 2026-09-22 - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
 * [Hummingbird CMS](https://github.com/mvanvu/hummingbird-cms) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-17 - A CMS based on Phalcon 4 with many powerful features
@@ -266,4 +266,4 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._

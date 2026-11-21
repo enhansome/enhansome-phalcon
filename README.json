@@ -357,7 +357,7 @@
             "open_issues": 0,
             "owner": "aihunter666",
             "repo": "PhalconCMS",
-            "stars": 152,
+            "stars": 153,
             "topics": []
           },
           "first_seen": "2026-08-28T04:04:41.025Z"
@@ -1514,7 +1514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:40:26.532Z",
+    "last_updated": "2026-11-21T01:07:50.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",
