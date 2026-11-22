@@ -1,9 +1,9 @@
 # Awesome Phalcon with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,041 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,529 | 🐛 103 | 📅 2026-09-02
 [![Actions Status](https://github.com/phalcon/awesome-phalcon/workflows/CI/badge.svg)](https://github.com/phalcon/awesome-phalcon/actions)
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 195,037 | 🐛 116 | 🌐 Go | 📅 2026-11-19.
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 195,231 | 🐛 113 | 🌐 Go | 📅 2026-11-21.
 
 ### Contributing
 
@@ -125,7 +125,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *Integration with third party services*
 
 * [phalcon-logentries](https://github.com/phalcon-orphanage/phalcon-logentries) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2017-04-11 - Sends log messages to the [Logentries](https://logentries.com/) log management service
-* [phalcon-inertia](https://github.com/wielorzeczownik/phalcon-inertia) ⭐ 1 | 🐛 2 | 🌐 PHP | 📅 2026-11-17 - Server-side adapter for [Inertia.js](https://inertiajs.com/), with Ziggy style named routes for JavaScript
+* [phalcon-inertia](https://github.com/wielorzeczownik/phalcon-inertia) ⭐ 1 | 🐛 2 | 🌐 PHP | 📅 2026-11-21 - Server-side adapter for [Inertia.js](https://inertiajs.com/), with Ziggy style named routes for JavaScript
 
 ## IDE
 
@@ -202,7 +202,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *Conferences, Chats, Forums, etc..*
 
 * [Phosphorum](https://github.com/phalcon/forum) ⚠️ Archived - The source for official Phalcon Forum
-* [Phanbook](https://github.com/phanbook/phanbook/) ⭐ 297 | 🐛 16 | 🌐 PHP | 📅 2026-08-08 - The source for code phanbook.com website
+* [Phanbook](https://github.com/phanbook/phanbook/) ⭐ 298 | 🐛 16 | 🌐 PHP | 📅 2026-08-08 - The source for code phanbook.com website
 
 ## Templating
 
@@ -266,4 +266,4 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
