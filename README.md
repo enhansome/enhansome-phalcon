@@ -1,9 +1,9 @@
 # Awesome Phalcon with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,106 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,775 | 🐛 103 | 📅 2026-09-02
 [![Actions Status](https://github.com/phalcon/awesome-phalcon/workflows/CI/badge.svg)](https://github.com/phalcon/awesome-phalcon/actions)
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 195,433 | 🐛 109 | 🌐 Go | 📅 2026-11-22.
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 195,642 | 🐛 111 | 🌐 Go | 📅 2026-11-23.
 
 ### Contributing
 
@@ -125,7 +125,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *Integration with third party services*
 
 * [phalcon-logentries](https://github.com/phalcon-orphanage/phalcon-logentries) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2017-04-11 - Sends log messages to the [Logentries](https://logentries.com/) log management service
-* [phalcon-inertia](https://github.com/wielorzeczownik/phalcon-inertia) ⭐ 1 | 🐛 2 | 🌐 PHP | 📅 2026-11-21 - Server-side adapter for [Inertia.js](https://inertiajs.com/), with Ziggy style named routes for JavaScript
+* [phalcon-inertia](https://github.com/wielorzeczownik/phalcon-inertia) ⭐ 1 | 🐛 3 | 🌐 PHP | 📅 2026-11-24 - Server-side adapter for [Inertia.js](https://inertiajs.com/), with Ziggy style named routes for JavaScript
 
 ## IDE
 
@@ -266,4 +266,4 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
