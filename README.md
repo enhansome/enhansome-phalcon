@@ -1,9 +1,9 @@
 # Awesome Phalcon with stars
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,384 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,888 | 🐛 103 | 📅 2026-09-02
 [![Actions Status](https://github.com/phalcon/awesome-phalcon/workflows/CI/badge.svg)](https://github.com/phalcon/awesome-phalcon/actions)
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 195,834 | 🐛 109 | 🌐 Go | 📅 2026-11-24.
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 195,994 | 🐛 108 | 🌐 Go | 📅 2026-11-25.
 
 ### Contributing
 
@@ -60,7 +60,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 * [MVC](https://github.com/phalcon/mvc) ⭐ 814 | 🐛 2 | 🌐 PHP | 📅 2026-07-14 - Examples of Phalcon MVC file structures
 * [Vökuró](https://github.com/phalcon/vokuro) ⭐ 366 | 🐛 0 | 🌐 PHP | 📅 2026-11-24 - Sample application for Phalcon Framework (Acl, Auth, Security)
-* [INVO Application](https://github.com/phalcon/invo) ⭐ 345 | 🐛 1 | 🌐 PHP | 📅 2026-11-22 - Sample application for the Phalcon Framework
+* [INVO Application](https://github.com/phalcon/invo) ⭐ 345 | 🐛 2 | 🌐 PHP | 📅 2026-11-25 - Sample application for the Phalcon Framework
 * [Webird](https://github.com/perchlabs/webird) ⚠️ Archived - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) ⚠️ Archived - Sample modular application for the Phalcon Framework
 * [Base App](https://github.com/mruz/base-app) ⭐ 63 | 🐛 5 | 🌐 PHP | 📅 2016-04-26 - The base application in Phalcon Framework
@@ -109,7 +109,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *Debug & profiling tools.*
 
-* [Prophiler](https://github.com/fabfuel/prophiler) ⭐ 438 | 🐛 19 | 🌐 PHP | 📅 2020-09-03 - PHP Profiler & Developer Toolbar (built for Phalcon)
+* [Prophiler](https://github.com/fabfuel/prophiler) ⭐ 437 | 🐛 19 | 🌐 PHP | 📅 2020-09-03 - PHP Profiler & Developer Toolbar (built for Phalcon)
 * [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) ⭐ 159 | 🐛 12 | 🌐 PHP | 📅 2022-04-08 - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon Framework
 * [dd](https://github.com/phalcon/dd) ⭐ 22 | 🐛 0 | 🌐 PHP | 📅 2022-10-07 - This package will add the `dd` and `dump` helpers to your Phalcon application
 * [Phalcon BB Debugger](https://github.com/ismail0234/Phalcon-BB-Debugger) ⭐ 5 | 🐛 0 | 🌐 HTML | 📅 2019-03-28 - Phalcon BB Debugger Strong and easy install.
@@ -125,7 +125,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *Integration with third party services*
 
 * [phalcon-logentries](https://github.com/phalcon-orphanage/phalcon-logentries) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2017-04-11 - Sends log messages to the [Logentries](https://logentries.com/) log management service
-* [phalcon-inertia](https://github.com/wielorzeczownik/phalcon-inertia) ⭐ 1 | 🐛 3 | 🌐 PHP | 📅 2026-11-24 - Server-side adapter for [Inertia.js](https://inertiajs.com/), with Ziggy style named routes for JavaScript
+* [phalcon-inertia](https://github.com/wielorzeczownik/phalcon-inertia) ⭐ 0 | 🐛 3 | 🌐 PHP | 📅 2026-11-25 - Server-side adapter for [Inertia.js](https://inertiajs.com/), with Ziggy style named routes for JavaScript
 
 ## IDE
 
@@ -170,7 +170,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *Representational state transfer.*
 
-* [REST API](https://github.com/phalcon/rest-api) ⭐ 93 | 🐛 3 | 🌐 PHP | 📅 2026-11-24 - Implementation of an API application using the Phalcon
+* [REST API](https://github.com/phalcon/rest-api) ⭐ 93 | 🐛 3 | 🌐 PHP | 📅 2026-11-25 - Implementation of an API application using the Phalcon
 * [phalcon-json-api-package](https://github.com/gte451f/phalcon-json-api-package) ⚠️ Archived - A composer package designed to help you create a JSON:API in Phalcon
 * [PhREST API](https://github.com/phrest/api) ⭐ 30 | 🐛 3 | 🌐 PHP | 📅 2021-03-17 - Phalcon Framework REST API Package
 
@@ -266,4 +266,4 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
