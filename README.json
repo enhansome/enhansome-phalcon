@@ -40,7 +40,7 @@
             "id": 9816679,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-24T21:14:28Z",
+            "last_commit": "2026-11-26T15:32:27Z",
             "open_issues": 0,
             "owner": "phalcon",
             "repo": "vokuro",
@@ -71,8 +71,8 @@
             "id": 3989277,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-25T21:11:45Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-26T16:38:18Z",
+            "open_issues": 0,
             "owner": "phalcon",
             "repo": "invo",
             "stars": 345,
@@ -1081,7 +1081,7 @@
             "id": 127645341,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-25T19:23:35Z",
+            "last_commit": "2026-11-26T15:30:34Z",
             "open_issues": 3,
             "owner": "phalcon",
             "repo": "rest-api",
@@ -1514,7 +1514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T02:40:30.923Z",
+    "last_updated": "2026-11-27T02:40:50.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Phalcon libraries and resources",
